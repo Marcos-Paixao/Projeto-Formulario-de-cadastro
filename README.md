@@ -52,4 +52,4 @@ https://github.com/Marcos-Paixao/Projeto-Formulario-de-cadastro/commit/ef16eaabf
 Este projeto está sob a licença MIT. Veja o arquivo (LICENSE) para mais detalhes.
 
 ---
-Feito com ❤️ por Marcos Paixão (https://github.com)
+Feito com ❤️ por Marcos Paixão (https://github.com/Marcos-Paixao)
