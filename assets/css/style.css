@@ -12,7 +12,9 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #0c6ce94d;    
+    background: radial-gradient(circle, #00aaff, #003366);
+
+    
 }
 .container {
     width: 80%;
@@ -25,7 +27,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #fde3a7d7;
     padding: 1rem;
 }
 .form-image img {
@@ -38,6 +39,13 @@ body{
     align-items: center;
     flex-direction: column;
     padding: 3rem;
+}
+.form, .form-image {
+  background: rgba(255, 255, 255, 0.185);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 .form-header {
     margin-bottom: 3rem;
