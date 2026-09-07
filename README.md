@@ -37,11 +37,11 @@ https://github.com/Marcos-Paixao/Projeto-Formulario-de-cadastro/commit/ef16eaabf
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Marcos-Paixao/Projeto-Formulario-de-cadastro.git
    ```
 2. Navegue até a pasta do projeto:
    ```bash
-   cd NOME_DO_REPOSITORIO
+   cd Projeto-Formulario-de-cadastro
    ```
 3. Abra o arquivo `index.html` diretamente no seu navegador ou utilize a extensão **Live Server** do VS Code.
 
